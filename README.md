@@ -12,11 +12,11 @@
 | modules                | ✅            |
 | collections            | ✅    |
 | strings                | ✅          |
-| error_handling         |  ⚙           |
-| generics               | ❌           |
-| option                 | ❌         |
-| traits                 | ❌         |
-| tests                  | ❌         |
+| error_handling         | ✅          |
+| generics               | ✅         |
+| option                 | ✅       |
+| traits                 | ✅       |
+| tests                  | ✅       |
 | standard_library_types | ❌         |
 | threads                | ❌         |
 | macros                 | ❌         |
