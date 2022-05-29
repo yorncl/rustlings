@@ -17,8 +17,11 @@
 | option                 | ✅       |
 | traits                 | ✅       |
 | tests                  | ✅       |
-| standard_library_types | ❌         |
-| threads                | ❌         |
-| macros                 | ❌         |
-| clippy                 | ❌           |
-| conversions            | ❌           |
+| standard_library_types | ✅         |
+| threads                | ✅        |
+| macros                 | ✅       |
+| clippy                 | ✅        |
+| conversions            | ✅       |
+
+In a few cases, I probably didn't follow the most idiomatic way to do things.
+Beware
